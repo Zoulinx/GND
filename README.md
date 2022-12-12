@@ -40,7 +40,10 @@ Please refer to [get_started.md](https://github.com/open-mmlab/mmsegmentation/bl
 
 Clone my git
 
-Download [dataset](https://drive.google.com/file/d/12fvd1He8hQdkC2PTBLM_X2mwR92BcStF/view?usp=share_link) and place the data set as follows.
+Download [shadow_dataset](https://drive.google.com/file/d/12fvd1He8hQdkC2PTBLM_X2mwR92BcStF/view?usp=share_link) and
+[sun_dataset](https://drive.google.com/file/d/1--j4s1uvJiONb7apNJ9V3syrmWgY2o9u/view?usp=share_link)
+
+Place the dataset as follows:
 ```none
 mmsegmentation
 ├── configs
