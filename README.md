@@ -34,7 +34,17 @@ Clone my git
 Download [shadow_dataset](https://drive.google.com/file/d/12fvd1He8hQdkC2PTBLM_X2mwR92BcStF/view?usp=share_link) and
 [sun_dataset](https://drive.google.com/file/d/1--j4s1uvJiONb7apNJ9V3syrmWgY2o9u/view?usp=share_link)
 
-Place the dataset as follows:
+If you need to verify the model accuracy in the paper, download the following four checkpoint file
+
+- [convnext_band.pth](https://drive.google.com/file/d/1-3NxTRQ0SuEjhsN9yeXw1QHjfPJl3YBM/view?usp=share_link)
+
+- [convnext_index.pth](https://drive.google.com/file/d/1-3XPDAvw6gN5LIo00t0exaPntx4ktRXy/view?usp=share_link)
+
+- [swin_band.pth](https://drive.google.com/file/d/1-5mCnnELnjMIqm5r_89l1TC3KSP6sQ65/view?usp=share_link)
+
+- [swin_index.pth](https://drive.google.com/file/d/1-8ls60lsybqSnQ5EdjNteoCVyASKp36d/view?usp=share_link)
+
+Place the data and checkpoint as follows:
 ```none
 mmsegmentation
 ├── configs
@@ -49,6 +59,13 @@ mmsegmentation
 │   │   │   ├── clip_shadow_index_img
 │   │   │   ├── clip_shadow_band_img
 ├── mmseg
+├── paper
+│   ├── checkpoint
+│   │   ├── convnext_band.pth
+│   │   ├── convnext_index.pth
+│   │   ├── swin_band.pth
+│   │   ├── swin_index.pth
+├── resources
 ├── tests
 ├── tools
 ...
@@ -56,13 +73,7 @@ mmsegmentation
 
 ## Get Started
 
-------
 
-## Build GND
-
-<div  align="center">
- <img src="resources/MainFig.png" width = "737" height = "697" alt="GND and RI" align=center />
-</div>
 
 ## Acknowledgement
 
