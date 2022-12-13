@@ -4,10 +4,9 @@
 GND:A normalized difference form more suitable for remote sensing applications.
 https://doi.org/10.36227/techrxiv.21687326.v1
 
-<div  align="center">    
- <img src="resources/MainFig.png" width = "737" height = "697" alt="GND and RI" align=center />
+<div  align="center">
+ <img src="resources/swin.png" width = "985" height = "510" alt="GND and RI" align=center />
 </div>
-
 
 ## Changelog
 2022/12/12
@@ -67,9 +66,11 @@ mmsegmentation
 
 ------
 
-## Contributing
+## Build GND
 
-------
+<div  align="center">
+ <img src="resources/MainFig.png" width = "737" height = "697" alt="GND and RI" align=center />
+</div>
 
 ## Acknowledgement
 
