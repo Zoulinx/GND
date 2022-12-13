@@ -2,7 +2,8 @@
 # Paper with code
 ### 🌟 We are looking for reviewers for papers in the TGRS journal. If you find our work interesting and would like to serve as a reviewer for the paper, please feel free to contact me.
 ### 👉🏻linxinzou@foxmail.com
-GND:A normalized difference form more suitable for remote sensing applications.
+
+### 📖Paper:"GND:A normalized difference form more suitable for remote sensing applications."
 https://doi.org/10.36227/techrxiv.21687326.v1
 
 <div  align="center">
