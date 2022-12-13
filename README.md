@@ -8,14 +8,6 @@ https://doi.org/10.36227/techrxiv.21687326.v1
  <img src="resources/swin.png" width = "591" height = "306" alt="GND and RI" align=center />
 </div>
 
-## Changelog
-2022/12/12
-
-Add dataset(Cropped)
-
-Update source code(rebuild by mmseg1.0)
-
-Add Paper(Preprint)
 ## Dataset/Model
 
 Supported datasets:
@@ -35,7 +27,7 @@ Supported methods:
 
 ## Installation
 
-Please refer to [get_started.md](https://github.com/open-mmlab/mmsegmentation/blob/dev-1.x/README.md) for install mmseg1.0
+Please refer to [get_started.md](https://github.com/open-mmlab/mmsegmentation/releases/tag/v0.24.0) for install mmseg-0.24
 
 Clone my git
 
