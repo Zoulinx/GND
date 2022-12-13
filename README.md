@@ -1,5 +1,6 @@
 
 # Paper with code
+### 🌟 We are looking for reviewers for papers in the TGRS journal. If you find our work interesting and would like to serve as a reviewer for the paper, please feel free to contact me.
 
 GND:A normalized difference form more suitable for remote sensing applications.
 https://doi.org/10.36227/techrxiv.21687326.v1
@@ -71,10 +72,17 @@ mmsegmentation
 ...
 ```
 
-## Get Started
+## Evaluation
 
-
-
+Open [test.py](/test.py) and modify 24-26 rows
+```none
+python test.py
+```
+## Train
+Open [train.py](/train.py) and modify 23-24 rows
+```none
+python train.py
+```
 ## Acknowledgement
 
 We thank [openMMlab](https://github.com/open-mmlab) for the open-source libraries with excellent features.
