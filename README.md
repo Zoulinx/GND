@@ -5,7 +5,7 @@ GND:A normalized difference form more suitable for remote sensing applications.
 https://doi.org/10.36227/techrxiv.21687326.v1
 
 <div  align="center">
- <img src="resources/swin.png" width = "985" height = "510" alt="GND and RI" align=center />
+ <img src="resources/swin.png" width = "591" height = "306" alt="GND and RI" align=center />
 </div>
 
 ## Changelog
