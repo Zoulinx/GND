@@ -48,7 +48,7 @@ If you need to verify the model accuracy in the paper, download the following fo
 
 Place the data and checkpoint as follows:
 ```none
-mmsegmentation
+GND-main
 ├── configs
 ├── data
 │   ├── RIT-18
