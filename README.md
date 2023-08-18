@@ -4,7 +4,7 @@
 
 </p >
 <p align="center">
-<a href="https://ieeexplore.ieee.org/document/10105625"><img src="https://img.shields.io/badge/Paper-IEEE%20TGRS-red"></a>
+<a href="https://ieeexplore.ieee.org/document/10105625"><img src="https://img.shields.io/badge/Paper-IEEE%20TGRS-blue"></a>
 </p>
 
 ## Introduction
@@ -13,7 +13,7 @@
 
 <figure>
 <div align="center">
-<img src=resources/swin.png width="90%">
+<img src=resources/swin.png width="100%">
 </div>
 </figure>
 
