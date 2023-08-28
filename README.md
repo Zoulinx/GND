@@ -104,7 +104,15 @@ We thank [openMMlab](https://github.com/open-mmlab) for the open-source librarie
 If you find this project useful in your research, please consider cite:
 
 ```BibTeX
-zou, linxin; Wei, Bo (2022): GND:A normalized difference form more suitable for remote sensing applications. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.21687326.v1 
+@ARTICLE{10198490,
+  author={Zou, Linxin and Wei, Bo},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={GND-RI: A Normalized Difference Form More Suitable for Remote Sensing Applications}, 
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-12},
+  doi={10.1109/TGRS.2023.3300834}}
 ```
 
 ## License
